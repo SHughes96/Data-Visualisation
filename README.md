@@ -27,4 +27,4 @@ This plot was designed to investigate the filtering level needed for new data to
 
 I created the plot below to create a map of the field plate height where optical fibres were being placed. Each map is unique to the positioning robot used to measure the height. These maps were produced by completing a least squares fit across a regular grid of points after a series of height measurements were taken using each positioning robot. The left and right-hand sides represent one of the two robots.
 
-![alt 2D profile maps]{data_vis_examples/Nona_Morta_A_combined_ZD40.png}
+![alt 2D profile maps](data_vis_examples/Nona_Morta_A_combined_ZD40.png)

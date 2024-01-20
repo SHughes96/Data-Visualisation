@@ -12,4 +12,4 @@ There is also a folder containing posters I created and presented at the SPIE as
 
 ## Sigma Clipping
 
-![alt text](../Fibre_192_sigma_clipping.png)
+![alt text](data_vis_examples/Fibre_192_sigma_clipping.png)

@@ -36,7 +36,7 @@ I created the plot below to create a map of the field plate height where optical
 The plot below shows the exact location of the disabled fibres for each side of the WEAVE fibre positioner, coloured according to the reason for their failure.
 This information is crucial for both the astronomers as they plan their surveys and the engineering team responsible for repairing and maintaining the fibre's themselves.
 
-[alt Positioner diagram](data_vis_examples/combined_MOS_2023_professional_plot.png)
+![alt Positioner diagram](data_vis_examples/combined_MOS_2023_professional_plot.png)
 
 ## Residual fitting
 ---

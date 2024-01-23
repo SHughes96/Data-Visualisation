@@ -19,6 +19,8 @@ The plot below displays the corrective movement data recorded for a single optic
 From left to right the panels represent the number of sigma clipping iterations applied to the display its impact on the number of data points excluded by the process, as well as the mean offset.
 
 This plot was designed to investigate the filtering level needed for new data to prevent extreme values from skewing the corrective offset applied to each movement over time.
+
+Please see my Calibration Database repository for the source code used to generate the data for these plots.
 ![alt Sigma Clipping](data_vis_examples/Fibre_192_sigma_clipping.png)
 
 ---

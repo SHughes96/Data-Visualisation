@@ -32,7 +32,7 @@ To verify our model predictions of the WEAVE fibre positioner, park height measu
 
 (Bottom) The difference between the predictive map at a particular orientation and the base model prediction in the 'neutral' orientation. This plot depicts the change in the extrapolated plate map between positioner orientations.
 
-![alt Residual fitting](data_vis_eamples/Morta_A_Park_prediction_model_minus_spline_fit_ZD_40_Rot_60.png)
+![alt Residual fitting](data_vis_examples/Morta_A_Park_prediction_model_minus_spline_fit_ZD_40_Rot_60.png)
 
 
 ---

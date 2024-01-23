@@ -22,6 +22,19 @@ This plot was designed to investigate the filtering level needed for new data to
 ![alt Sigma Clipping](data_vis_examples/Fibre_192_sigma_clipping.png)
 
 
+## Residual fitting
+---
+To verify our model predictions of the WEAVE fibre positioner, park height measurements were taken across a fixed set of accessible coordinates for the complete set of orientations. Below is a visualisation of how our predictive model compares with the measurements taken for a single orientation.
+
+(Middle) A plot of the predicted park heights represented by the blue line, with the measured coordinates displayed as red points. The orange line represents a simple spline fit to the points over the range of the predicted heights for a smooth comparison.
+
+(Top) A plot of the residuals of the spline fit and the predicted park heights, shown by the blue line. Here the red points represent the residuals between the measurecoordinates and the spline fit with the zero point emphasised by the green line.
+
+(Bottom) The difference between the predictive map at a particular orientation and the base model prediction in the 'neutral' orientation. This plot depicts the change in the extrapolated plate map between positioner orientations.
+
+![alt Residual fitting](data_vis_eamples/Morta_A_Park_prediction_model_minus_spline_fit_ZD_40_Rot_60.png)
+
+
 ---
 ## Least Squares Fitting
 

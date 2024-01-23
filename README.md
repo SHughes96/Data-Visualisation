@@ -31,6 +31,13 @@ I created the plot below to create a map of the field plate height where optical
 ![alt 2D profile maps](data_vis_examples/Nona_Morta_A_combined_ZD40.png)
 
 
+## Positioner fibre visualisation
+---
+The plot below shows the exact location of the disabled fibres for each side of the WEAVE fibre positioner, coloured according to the reason for their failure.
+This information is crucial for both the astronomers as they plan their surveys and the engineering team responsible for repairing and maintaining the fibre's themselves.
+
+[alt Positioner diagram](data_vis_examples/combined_MOS_2023_professional_plot.png)
+
 ## Residual fitting
 ---
 To verify our model predictions of the WEAVE fibre positioner, park height measurements were taken across a fixed set of accessible coordinates for the complete set of orientations. Below is a visualisation of how our predictive model compares with the measurements taken for a single orientation.

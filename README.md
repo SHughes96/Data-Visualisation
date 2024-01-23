@@ -8,7 +8,7 @@ This repository is designed to highlight examples of the data visualisations tha
 
 Each of these examples has been created with Python using packages such as Matplotlib, Seaborn, and Scikit-learn amongst others.
 
-There is also a folder containing posters I created and presented at the SPIE Astronomical Telescopes and Instrumentation 2022 conference.
+There is also a folder containing posters I created and presented at the SPIE Astronomical Telescopes and Instrumentation 2022 conference, as well as the REU Undergraduate placement poster session in 2018.
 
 ---
 
@@ -20,6 +20,13 @@ From left to right the panels represent the number of sigma clipping iterations 
 
 This plot was designed to investigate the filtering level needed for new data to prevent extreme values from skewing the corrective offset applied to each movement over time.
 ![alt Sigma Clipping](data_vis_examples/Fibre_192_sigma_clipping.png)
+
+---
+## Least Squares Fitting
+
+I created the plot below to create a map of the field plate height where optical fibres were being placed. Each map is unique to the positioning robot used to measure the height. These maps were produced by completing a least squares fit across a regular grid of points after a series of height measurements were taken using each positioning robot. The left and right-hand sides represent one of the two robots.
+
+![alt 2D profile maps](data_vis_examples/Nona_Morta_A_combined_ZD40.png)
 
 
 ## Residual fitting
@@ -35,9 +42,4 @@ To verify our model predictions of the WEAVE fibre positioner, park height measu
 ![alt Residual fitting](data_vis_examples/Morta_A_Park_prediction_model_minus_spline_fit_ZD_40_Rot_60.png)
 
 
----
-## Least Squares Fitting
 
-I created the plot below to create a map of the field plate height where optical fibres were being placed. Each map is unique to the positioning robot used to measure the height. These maps were produced by completing a least squares fit across a regular grid of points after a series of height measurements were taken using each positioning robot. The left and right-hand sides represent one of the two robots.
-
-![alt 2D profile maps](data_vis_examples/Nona_Morta_A_combined_ZD40.png)

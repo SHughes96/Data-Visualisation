@@ -38,13 +38,6 @@ This information is crucial for both the astronomers as they plan their surveys 
 
 ![alt Positioner diagram](data_vis_examples/combined_MOS_2023_professional_plot.png)
 
-## SVG Diagrams
----
-For the introduction of my thesis, I created this SVG diagram to outline the basic principles of a multi-object spectrograph using the software Vectornator.
-
-![alt MOS diagram](data_vis_examples/updated_slit_diagram.pdf)
-
-
 ## Residual fitting
 ---
 To verify our model predictions of the WEAVE fibre positioner, park height measurements were taken across a fixed set of accessible coordinates for the complete set of orientations. Below is a visualisation of how our predictive model compares with the measurements taken for a single orientation.

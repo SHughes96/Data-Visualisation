@@ -42,7 +42,7 @@ This information is crucial for both the astronomers as they plan their surveys 
 ---
 For the introduction of my thesis, I created this SVG diagram to outline the basic principles of a multi-object spectrograph using the software Vectornator.
 
-![alt diagram]{data_vis_examples/updated_slit_diagram.png}
+![alt diagram](data_vis_examples/updated_slit_diagram.pdf)
 
 
 ## Residual fitting
